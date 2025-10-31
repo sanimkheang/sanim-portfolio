@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'anantason';
+					src: url('https://sanimkhenag.netlify.app/wp-content/uploads/useanyfont/7494anantason.woff2') format('woff2'),
+						url('https://sanimkhenag.netlify.app/wp-content/uploads/useanyfont/7494anantason.woff') format('woff');
+					font-weight: 400; font-style: normal; font-display: auto;
+				}
+
+				.anantason{font-family: 'anantason' !important;}
+
+		
